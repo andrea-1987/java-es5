@@ -1,0 +1,30 @@
+.card {
+  display: flex;
+  flex-direction:row
+}
+.card {
+  width: 20%;
+}
+img {
+  width: 70%;
+  margin-block: 20px;
+  margin-right: 50px;
+}
+h1,
+h3 {
+  text-align: center;
+}
+.descrizione {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  width: 300px;
+  height: 300px;
+}
+.click{
+    background-color: lightgray;
+}
+.links{
+    color:red
+}
